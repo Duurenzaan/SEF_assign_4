@@ -1,5 +1,6 @@
 # SEF_assign_4
 
 ## Software engineering fundementals
-- Currently test run on eclipse.
-- Can be run test on vscode in limited way.
+- Tests can be run in eclipse without issue.
+- Project is able to imported to eclipse
+- Tests can be run on vscode but limited.
